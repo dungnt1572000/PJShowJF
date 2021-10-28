@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/seting_layout_container"
+        android:fitsSystemWindows="true"
+        tools:context=".ui.setting.SettingFragment">
+
+        <!-- TODO: Update blank fragment layout -->
+
+        <include
+            layout="@layout/not_login_layout"
+            android:id="@+id/not_login_layout_id" />
+
+        <include
+            android:visibility="gone"
+            layout="@layout/logined_layout"
+            android:id="@+id/logined_layout_id" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LastJFProject/app/src/main/res/drawable/cmt_item_another_background.xml" value="0.3828125" />
+        <entry key="..\:/LastJFProject/app/src/main/res/drawable/cmt_item_your_background.xml" value="0.3828125" />
+        <entry key="..\:/LastJFProject/app/src/main/res/drawable/ic_back.xml" value="0.3828125" />
+        <entry key="..\:/LastJFProject/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.3828125" />
+        <entry key="..\:/LastJFProject/app/src/main/res/drawable/ic_check_right.xml" value="0.3828125" />
+        <entry key="..\:/LastJFProject/app/src/main/res/drawable/ic_email.xml" value="0.3828125" />
+        <entry key="..\:/LastJFProject/app/src/main/res/drawable/ic_err.xml" value="0.3828125" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/activity_main.xml" value="0.19114583333333332" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/book_item.xml" value="0.20520833333333333" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/comment_another_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/comment_fragment.xml" value="0.25" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/comment_your_item.xml" value="0.5" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/dowloaded_word_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/fragment_catagory_detail.xml" value="0.20520833333333333" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/fragment_not_logined.xml" value="0.36666666666666664" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/fragment_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/fragment_setting.xml" value="0.20520833333333333" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/fragment_slaph.xml" value="0.20520833333333333" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/fragment_slash.xml" value="0.20520833333333333" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/fragment_word.xml" value="0.36666666666666664" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/home_fragment.xml" value="0.20520833333333333" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/item_catagory.xml" value="0.36666666666666664" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/item_word_local.xml" value="0.33" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/logined_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/not_login_layout.xml" value="0.25" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/process_u_i_fragment.xml" value="0.20520833333333333" />
+        <entry key="..\:/LastJFProject/app/src/main/res/layout/word_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/LastJFProject/app/src/main/res/menu/bottom_nav.xml" value="0.20520833333333333" />
+        <entry key="..\:/LastJFProject/app/src/main/res/menu/bottom_nav_menu.xml" value="0.20520833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
